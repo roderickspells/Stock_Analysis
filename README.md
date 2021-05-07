@@ -3,6 +3,7 @@
 
 
 ##Project Overview
+
 The purpose of this project was to create a workbook with VBA so that Steve could quickly analyze data from 12 stocks for the years 2017 and 2018 so that he could advise his parents on potential investments.
 We also refactored the code, collecting the same data but to determine whether we could improve our script and make it run faster and more efficiently.
 
